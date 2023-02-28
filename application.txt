@@ -1,0 +1,4 @@
+I created a website for drivers, where users can see where are drivers, they are experience, how much the trip costs, can see how many people are sitting there, and so on.
+
+Entities: User, Driver, Customer , Admin.
+
